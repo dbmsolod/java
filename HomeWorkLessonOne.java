@@ -87,7 +87,7 @@ public class HomeWorkLessonOne {
         }
     }
 
-    // exercise 6
+    // exercise 7
     public static void whatIsYourName(String name) {
         System.out.println("\nПривет, " + name + "!");
     }
